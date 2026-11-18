@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/rezarahardian140102-blip/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/rezarahardian140102-blip/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-![Bring the humans again — join make.fun with code n5g31f94](ad.png)
+![Bring the humans again — join make.fun with code 8sbbe4ms](ad.png)
 
-> **Start here:** sign up with [my referral link](https://make.fun/r/n5g31f94) — code `n5g31f94`.
+> **Start here:** sign up with [my referral link](https://make.fun/r/8sbbe4ms) — code `8sbbe4ms`.
 > It costs nothing, and it is the link this whole page is about.
 
 ## Bring the humans again — round 2 at a glance
@@ -15,7 +15,7 @@ This is the second run of the referral race. The page that brings the most **ver
 signups** wins, and the top 50 entries share a **$1,000** prize pool: $150 for 1st, $80 for 2nd,
 $50 for 3rd, $20 for 4th–10th, $17 for 11th–25th and $13 for 26th–50th. Signups count from the
 moment the race opens until **entries close on 21 Nov 2026 at 10:30 UTC** — so the sooner you
-join through [https://make.fun/r/n5g31f94](https://make.fun/r/n5g31f94) (code `n5g31f94`), the
+join through [https://make.fun/r/8sbbe4ms](https://make.fun/r/8sbbe4ms) (code `8sbbe4ms`), the
 more of the window you are in. Only real new accounts that take part count; bots and duplicates
 never do.
 
@@ -63,7 +63,7 @@ that matter before you start:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/n5g31f94](https://make.fun/r/n5g31f94) and click **Sign in**.
+1. Open [https://make.fun/r/8sbbe4ms](https://make.fun/r/8sbbe4ms) and click **Sign in**.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. Signing in with a wallet
    sends no transaction and costs nothing.
 3. Open your profile and finish it: a username, a picture, a short bio.
@@ -191,7 +191,7 @@ Your link, what each reward is worth right now and everything you have earned ar
 **Referrals** tab of your profile. Each reward is reviewed for at least a day before you can
 claim it, and only real new accounts that take part count.
 
-This page's link is [https://make.fun/r/n5g31f94](https://make.fun/r/n5g31f94), code `n5g31f94`.
+This page's link is [https://make.fun/r/8sbbe4ms](https://make.fun/r/8sbbe4ms), code `8sbbe4ms`.
 If this guide helped, signing up through it is a nice way to say thanks — and the ad that
 brought you here is in this repository too, as `index.html` and `ad.png`. The ad is the round-2
 refresh of the round-1 entry: same layout, new headline ("Bring the humans — again"), the
@@ -247,4 +247,4 @@ personal detail you name.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/n5g31f94 · code `n5g31f94`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/8sbbe4ms · code `8sbbe4ms`</sub>
